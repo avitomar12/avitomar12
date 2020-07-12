@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on **Anomaly Detection**
+- 🌱 I’m currently learning **Machine learning and Full Stack Development**
+- 👯 I’m looking to collaborate on **Machine learning research**
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about **Anything**
+- 📫 How to reach me: avitomar12@gmail.com
