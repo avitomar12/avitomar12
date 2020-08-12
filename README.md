@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on **Anomaly Detection**
-- 🌱 I’m currently learning **Machine learning and Full Stack Development**
+- 🌱 I’m currently learning **Algorithms and Machine learning**
 - 👯 I’m looking to collaborate on **Machine learning research**
 - 💬 Ask me about **Anything**
 - 📫 How to reach me: avitomar12@gmail.com
