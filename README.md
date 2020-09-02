@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: avitomar12@gmail.com
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avitomar12&show_icons=true&theme=merko)](https://github.com/avitomar12/github-readme-stats)
-![Avi's github stats](https://github-readme-stats.vercel.app/api?username=avitomar12&show_icons=true&theme=merko)
