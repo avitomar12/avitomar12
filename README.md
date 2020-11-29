@@ -14,8 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on **Graph Burning Problem**
-- 🌱 I’m currently learning **Algorithms**
+- 🌱 I’m currently learning **Algorithms and Graph Theory**
 - 📫 How to reach me: avitomar12@gmail.com
 
 
