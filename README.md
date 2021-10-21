@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently learning **Algorithms and Graph Theory**
+- 🌱 I’m currently learning **Parameterized Algorithms and Graph Theory**
 - 📫 How to reach me: avitomar12@gmail.com
 
 
