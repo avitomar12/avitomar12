@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 I’m currently working on **Optimizations and Energy managment architecture**
+- 🌱 I’m currently working on **Optimizations and Energy Managment Architecture**
 - 📫 How to reach me: avitomar12@gmail.com
 
 
